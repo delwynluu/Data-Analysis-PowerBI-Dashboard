@@ -26,7 +26,7 @@ In the cleaning process, I conducted these actions:
 -  Removing duplicates. 
 -  Data validation and correction (e.g., for any shipping costs and order quantity that are less than 0, those data are removed).
 ### Key Insights 
-a) Regional Sales Analysis 
+**a) Regional Sales Analysis **
 - 	Market Performance: APAC leads in total sales contribution (approximately 3.59M) followed by EU (2.94M) and US (2.30M). 
 - 	Customer Segmentation: Consumer segment dominates sales across all regions, particularly in APAC and EU. 
 - 	Regional Profitability: EU’s Central region shows the highest average sales per customer (2,114.35) with 777 customers. 
@@ -34,8 +34,9 @@ a) Regional Sales Analysis
 - 	Customer Base: The company has served more than 1500 customers in a period of 4 years, generating more than 22K orders worth 11.73M in total sales. 
 - 	Seasonal Trends: Sales and profits show strong seasonality with peaks in a period from September to December. 
 - 	City Performance: New York City, Los Angeles, and Seattle are top performing cities, while Lahore, Philadelphia, and Tegucigalpa show losses. 
-- 	Product Analysis: Chairs, and Bookcases are the highest-selling furniture categories with strong average prices. 
-b) Logistics Performance
+- 	Product Analysis: Chairs, and Bookcases are the highest-selling furniture categories with strong average prices.
+  
+**b) Logistics Performance**
 -  Shipping Efficiency: Average shipping duration is 3.98 days across 22.53K shipments at an average cost of 27.19. Even though there are clear rankings between various regions about shipping wait, the gap has not shown a huge difference (3-4 days in average), showing that the business has managed efficiently in shipping operation. 
 -	Shipping Preferences: Standard Class is overwhelmingly preferred (27.64K shipments) over Second Class (9.24K) and First Class (6.75K).
 -	 Shipping Duration Distribution: Most shipments (13K) take around 4-5 days, showing opportunity for efficiency improvements. 

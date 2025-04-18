@@ -42,21 +42,25 @@ In the cleaning process, I conducted these actions:
 -	 Shipping Duration Distribution: Most shipments (13K) take around 4-5 days, showing opportunity for efficiency improvements. 
 -	Order-Shipping Correlation: Higher order volumes in November-December correspond with shorter average shipping durations, suggesting operational efficiency during peak seasons.
 ### Recommendations: 
+
 **1. Regional Market Strategy Optimization**
 Based on Regional Sales Analysis:
 -	Expand European Central Operations: Leverage the exceptionally high average sales per customer ($2,214.35) by increasing marketing investment and store presence in this region to maximize returns on customer acquisition.
 -	Implement APAC Growth Strategy: Capitalize on APAC's leading sales contribution ($3.59M) by developing market-specific product offerings that cater to the consumer segment's preferences, which dominates sales in this region.
 -	Develop Recovery Plans for Underperforming Markets: Create targeted intervention strategies for cities with negative profitability (Philadelphia, Lahore, Tegucigalpa) including local market research, product assortment adjustments, and operational efficiency improvements.
+  
 **2. Logistics and Supply Chain Enhancement**
 Based on Logistics Operations Analysis:
 -	Optimize Shipping Method Selection: Restructure shipping options given that Standard Class represents the overwhelming preference (27.64K shipments), potentially eliminating underutilized premium options or rethinking their value proposition.
 -	Implement City-Specific Logistics Solutions: Deploy dedicated last-mile delivery solutions for the top 3 longest wait cities (Los Angeles, New York City, Philadelphia). 
 -	Establish Seasonal Capacity Planning: Develop a predictive capacity model for the September-December peak period when shipment volumes reach their highest points (2.8K-2.9K orders) to maintain or improve current delivery efficiency during high-volume periods.
 - Create Expedited Shipping Program for High-Margin Products: Prioritize faster shipping for product categories with highest margins, particularly in the furniture category (chairs and bookcases) to increase customer satisfaction for premium purchases.
+  
 **3. Product Portfolio Management**
 - Expand Furniture Category Leadership: Invest in expanding the chairs ($1.43M in sales) and bookcases ($1.37M) product lines with new designs and features, given their strong sales performance and healthy average prices.
 - Rationalize Office Supplies Assortment: Review the office supplies category, particularly focusing on improving margins for art supplies which show high volume (672 products) but low average price ($489.37).
 - Implement Product-Specific Shipping Standards: Address shipping duration variances by product type, particularly for envelope products where shipping times range from 3.5 to 5.75 days, by standardizing packaging and shipping processes.
+  
 **4. Customer Segmentation and Marketing Strategy**
 Based on Customer Analysis:
 -	Prioritize Consumer Segment Development: Create loyalty programs specifically for the consumer segment, which dominates sales contribution across all regions, particularly in APAC and EU.

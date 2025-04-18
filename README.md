@@ -66,6 +66,10 @@ Based on Customer Analysis:
 -	Prioritize Consumer Segment Development: Create loyalty programs specifically for the consumer segment, which dominates sales contribution across all regions, particularly in APAC and EU.
 -	Implement Regional Customer Acquisition Tactics: Develop market-specific customer acquisition strategies based on current customer density (EU: 777 customers, APAC: 705 customers) to optimize marketing spend efficiency.
 -	Launch Cross-Selling Program for High-Value Customers: Identify and target the highest-value customers in each region with personalized cross-selling campaigns focused on complementary products within their preferred categories.
+Dashboards: 
+![image](https://github.com/user-attachments/assets/ef25e792-eecc-4ba7-8830-c95059405544)
+
+
 
 
 
